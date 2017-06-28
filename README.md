@@ -1,4 +1,4 @@
-javac test.java
+javac Test.java
 
 
-java test
+java Test
